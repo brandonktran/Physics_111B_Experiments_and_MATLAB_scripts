@@ -1,0 +1,95 @@
+Pressure=[];
+
+V_H_P1=[]; % hall voltage between probe 1 and 2 for pressure 1
+V_H_P2=[]; % hall voltage between probe 1 and 2 for pressure 2
+V_H_P3=[]; % hall voltage between probe 1 and 2 for pressure 3
+V_H_P4=[]; % hall voltage between probe 1 and 2 for pressure 4
+V_H_P5=[]; % hall voltage between probe 1 and 2 for pressure 5
+V_H_P6=[]; % hall voltage between probe 1 and 2 for pressure 6
+
+V_O_P1=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 1
+V_O_P2=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 2
+V_O_P3=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 3
+V_O_P4=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 4
+V_O_P5=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 5
+V_O_P6=[]; % ohmic voltage/discharge current V_D between probe 2 and 3 for pressure 6
+
+E_H_P1=1/(4)*V_H_P1; % Hall Field for pressure 1
+E_H_P2=1/(4)*V_H_P2; % Hall Field for pressure 2
+E_H_P3=1/(4)*V_H_P3; % Hall Field for pressure 3
+E_H_P4=1/(4)*V_H_P4; % Hall Field for pressure 4
+E_H_P5=1/(4)*V_H_P5; % Hall Field for pressure 5
+E_H_P6=1/(4)*V_H_P6; % Hall Field for pressure 6
+
+E_O_P1=1/(75)*V_O_P1; %Ohmic Field for pressure 1
+E_O_P2=1/(75)*V_O_P2; %Ohmic Field for pressure 2
+E_O_P3=1/(75)*V_O_P3; %Ohmic Field for pressure 3
+E_O_P4=1/(75)*V_O_P4; %Ohmic Field for pressure 4
+E_O_P5=1/(75)*V_O_P5; %Ohmic Field for pressure 5
+E_O_P6=1/(75)*V_O_P6; %Ohmic Field for pressure 6
+
+%% Hall Field as Function of Magnetic Field for 6 pressures
+B_field1=[];
+B_field2=[];
+B_field3=[];
+B_field4=[];
+B_field5=[];
+B_field6=[];
+
+figure(1)
+grid on
+xlabel('Magnetic field');
+ylabel('Hall Field');
+hold on
+plot(B_field1,E_H_P1,'ko')
+plot(B_field1,E_H_P2,'ko')
+plot(B_field1,E_H_P3,'ko')
+plot(B_field1,E_H_P4,'ko')
+plot(B_field1,E_H_P5,'ko')
+plot(B_field1,E_H_P6,'ko')
+title('Hall Field vs Magnetic Field')
+hold off
+
+
+%% Drift Velocity of Electrons for 6 pressures as a function of Hall Field
+ u1=[];
+ for i=1:length(B_field1)
+     z = V_H_P1(i)/B_field1(i)*(1/4)
+     u1= [u1; z];
+ end
+u1
+
+ u2=[];
+ for i=1:length(B_field2)
+     z = V_H_P2(i)/B_field2(i)*(1/4)
+     u2= [u2; z];
+ end
+u2
+
+ u3=[];
+ for i=1:length(B_field1)
+     z = V_H_P1(i)/B_field1(i)*(1/4)
+     u3= [u3; z];
+ end
+u1
+
+ u1=[];
+ for i=1:length(B_field1)
+     z = V_H_P1(i)/B_field1(i)*(1/4)
+     u1= [u1; z];
+ end
+u1
+
+ u1=[];
+ for i=1:length(B_field1)
+     z = V_H_P1(i)/B_field1(i)*(1/4)
+     u1= [u1; z];
+ end
+u1
+
+ u1=[];
+ for i=1:length(B_field1)
+     z = V_H_P1(i)/B_field1(i)*(1/4)
+     u1= [u1; z];
+ end
+u1
