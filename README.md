@@ -41,7 +41,7 @@ In this experiment, <sup>85</sup>Rb and <sup>87</sup>Rb atoms were optically pum
 
 * (LEFT) Energy levels and splittings in <sup>85</sup>Rb.
 
-* (RIGHT) Resonant RF frequencies as a function of the applied Helmholtz magnetic field BH for <sup>85</sup>Rb and <sup>87</sup>Rb.
+* (RIGHT) Resonant RF frequencies as a function of the applied Helmholtz magnetic field B<sub>H</sub> for <sup>85</sup>Rb and <sup>87</sup>Rb.
 
 The full write-up and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Optical_Pumping/OPT_writeup.pdf).
 
