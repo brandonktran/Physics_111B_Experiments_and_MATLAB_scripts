@@ -2,7 +2,7 @@
 
 This repo contains comprehensive data analyses of 4 physics experiments that I did at UC Berkeley. Raw experimental data, MATLAB scripts I wrote to analyze the data, and write-ups can be found for all four experiments in this repo. 
 
-Below is a short summary on the experiments that were done and some of the data that was obtained and analyzed.
+Below is a short summary on the experiments that were done and some of the data that was obtained and analyzed. (All data analyses was done using MATLAB)
 
 
 ## Hall Effect in a Plasma
