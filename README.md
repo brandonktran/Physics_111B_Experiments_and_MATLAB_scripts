@@ -13,6 +13,7 @@ Below is a short summary on the experiments that were done and some of the data 
 
 * (RIGHT) Average Thermal Velocity <|v|><sub>e</sub> of Electrons as a function of Hall field E<sub>H</sub>. Average velocity increases with Hall field and at higher pressures (with constant Hall field), as expected by an increase in collision frequency.
 
+The full write-up and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Hall_Effect_Plasma/HAL_writeup.pdf).
 
 ## Gamma Ray Spectroscopy
 
@@ -23,6 +24,8 @@ Below is a short summary on the experiments that were done and some of the data 
 
 * (RIGHT) Semilog plot in the y-axis of Intensity vs absorber thickness for each absorber. The linear attenuation coefficients of Cu, Al, and Pb were obtained for a 137Cs source using a straight line fit
 
+The full write-up and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Gamma_Ray_Spectroscopy/GMA_writeup.pdf).
+
 ## Optical Pumping
 
 <img src="Optical_Pumping/lateximages/Rb85structure.png" style="display:inline-block;" width="400" height="400"> <img src="Optical_Pumping/lateximages/linear.png" style="display:inline-block;" width="400" height="400">
@@ -31,6 +34,8 @@ Below is a short summary on the experiments that were done and some of the data 
 
 * (RIGHT) Resonant RF frequencies as a function of the applied Helmholtz magnetic field BH for <sup>85</sup>Rb and <sup>87</sup>Rb.
 
+The full write-up and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Optical_Pumping/OPT_writeup.pdf).
+
 ## Rutherford Scattering
 
 <img src="Rutherford_Scattering/atomicCalc.png" style="display:inline-block;" width="400" height="400"> <img src="Rutherford_Scattering/beamprof.png" style="display:inline-block;" width="400" height="400">
@@ -38,3 +43,5 @@ Below is a short summary on the experiments that were done and some of the data 
 * (LEFT) Beam profile of Am<sup>241</sup> source.
 
 * (RIGHT) Differential Cross Section vs Scattering Angle.
+
+The presentation of the results and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Rutherford_Scattering/RutherfordScattering_presentation.pptx).
