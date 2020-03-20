@@ -28,7 +28,7 @@ In this experiment, the gamma ray spectra of four radioactive sources, i.e., <su
 
 * (LEFT) Energy Spectrum of <sup>60</sup>Co, <sup>137</sup>Cs, <sup>22</sup>Na, and <sup>54</sup>Mn. The energy axis was calibrated using known photopeak energy values. The photopeaks, backscatter peaks, and Compton edges can be seen in each spectrum.
 
-* (RIGHT) Semilog plot in the y-axis of Intensity vs absorber thickness for each absorber. The linear attenuation coefficients of Cu, Al, and Pb were obtained for a 137Cs source using a straight line fit
+* (RIGHT) Semilog plot in the y-axis of Intensity vs absorber thickness for each absorber. The linear attenuation coefficients of Cu, Al, and Pb were obtained for a <sup>137</sup>Cs source using a straight line fit
 
 The full write-up and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Gamma_Ray_Spectroscopy/GMA_writeup.pdf).
 
