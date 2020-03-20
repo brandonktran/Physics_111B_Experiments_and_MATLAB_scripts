@@ -31,8 +31,8 @@ This repo contains comprehensive data analyses of 4 physics experiments that I d
 
 ## Rutherford Scattering
 
-<img src="Rutherford_Scattering/lateximages/Rb85structure.png" style="display:inline-block;" width="400" height="400"> <img src="Rutherford_Scattering/lateximages/linear.png" style="display:inline-block;" width="400" height="400">
+<img src="Rutherford_Scattering/atomicCalc.png" style="display:inline-block;" width="400" height="400"> <img src="Rutherford_Scattering/beamprof.png" style="display:inline-block;" width="400" height="400">
 
-* (LEFT) Energy levels and splittings in <sup>85</sup>Rb.
+* (LEFT) Beam profile of Am<sup>241</sup> source.
 
-* (RIGHT) Resonant RF frequencies as a function of the applied Helmholtz magnetic field BH for <sup>85</sup>Rb and <sup>87</sup>Rb.
+* (RIGHT) Differential Cross Section vs Scattering Angle.
