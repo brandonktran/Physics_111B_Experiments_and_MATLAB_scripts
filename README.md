@@ -60,8 +60,8 @@ Some of the data that was collected for this experient and its analysis is shown
 
 <img src="Rutherford_Scattering/atomicCalc.png" style="display:inline-block;" width="450" height="400"> <img src="Rutherford_Scattering/beamprof.png" style="display:inline-block;" width="450" height="400">
 
-* (LEFT) Beam profile of Am<sup>241</sup> source.
+* (LEFT) Differential Cross Section vs Scattering Angle.
 
-* (RIGHT) Differential Cross Section vs Scattering Angle.
+* (RIGHT) Beam profile of Am<sup>241</sup> source.
 
 The presentation of the results and more detailed analysis of this experiment can be found [here](https://github.com/brandonktran/Physics_Experiments_and_MATLAB_scripts/blob/master/Rutherford_Scattering/RutherfordScattering_presentation.pptx).
