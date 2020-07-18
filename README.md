@@ -11,7 +11,7 @@ Summary: In this experiment, the Hall Effect is observed in a low-density plasma
 
 Some of the data that was collected for this experient and its analysis is shown below: 
 
-<img src="Hall_Effect_Plasma/lateximages/HallField.png" style="display:inline-block;" width="450" height="400"> <img src="Hall_Effect_Plasma/lateximages/averagevelocity.png" style="display:inline-block;" width="450" height="400">
+<img src="Hall_Effect_Plasma/lateximages/HallField.png" style="display:inline-block;" width="47%"> <img src="Hall_Effect_Plasma/lateximages/averagevelocity.png" style="display:inline-block;" width="47%">
 
 * (LEFT) Hall Field EH as a function of applied magnetic field B for six different pressures. A linear relationship exists and is expected by Eq. (5). Another general trend that can be seen is at a given magnetic field, the Hall field is lower at higher pressures. This can be seen as the result of the increase in free electrons produced with higher pressures, resulting in lower Hall fields by Eq. (5). Error bars associated with reading errors were approximately ±50V. The reduced chi-squared value χ2 for the linear fits were 0.45, 0.30, 0.14, 0.44, 0.04, df and 0.30 for 15 torr, 18 torr, 21 torr, 24 torr, 27 torr, and 30 torr respectively.
 
@@ -25,7 +25,7 @@ Summary: In this experiment, the gamma ray spectra of four radioactive sources, 
 
 Some of the data that was collected for this experient and its analysis is shown below: 
 
-<img src="Gamma_Ray_Spectroscopy/lateximages/4spectra.png" style="display:inline-block;" width="40%"> <img src="Gamma_Ray_Spectroscopy/lateximages/Cs137attenuation.png" style="display:inline-block;" width="450" height="400">
+<img src="Gamma_Ray_Spectroscopy/lateximages/4spectra.png" style="display:inline-block;" width="47%"> <img src="Gamma_Ray_Spectroscopy/lateximages/Cs137attenuation.png" style="display:inline-block;" width="47%">
 
 
 * (LEFT) Energy Spectrum of <sup>60</sup>Co, <sup>137</sup>Cs, <sup>22</sup>Na, and <sup>54</sup>Mn. The energy axis was calibrated using known photopeak energy values. The photopeaks, backscatter peaks, and Compton edges can be seen in each spectrum.
@@ -40,7 +40,7 @@ Summary: In this experiment, <sup>85</sup>Rb and <sup>87</sup>Rb atoms were opti
 
 Some of the data that was collected for this experient and its analysis is shown below: 
 
-<img src="Optical_Pumping/lateximages/Rb85structure.png" style="display:inline-block;" width="450" height="400"> <img src="Optical_Pumping/lateximages/linear.png" style="display:inline-block;" width="450" height="400">
+<img src="Optical_Pumping/lateximages/Rb85structure.png" style="display:inline-block;" width="47%"> <img src="Optical_Pumping/lateximages/linear.png" style="display:inline-block;" width="47%">
 
 * (LEFT) Energy levels and splittings in <sup>85</sup>Rb.
 
@@ -58,7 +58,7 @@ Calculate the atomic number of gold
 
 Some of the data that was collected for this experient and its analysis is shown below: 
 
-<img src="Rutherford_Scattering/atomicCalc.png" style="display:inline-block;" width="450" height="400"> <img src="Rutherford_Scattering/beamprof.png" style="display:inline-block;" width="450" height="400">
+<img src="Rutherford_Scattering/atomicCalc.png" style="display:inline-block;" width="47%"> <img src="Rutherford_Scattering/beamprof.png" style="display:inline-block;" width="47%">
 
 * (LEFT) Differential Cross Section vs Scattering Angle.
 
