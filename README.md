@@ -25,7 +25,7 @@ Summary: In this experiment, the gamma ray spectra of four radioactive sources, 
 
 Some of the data that was collected for this experient and its analysis is shown below: 
 
-<img src="Gamma_Ray_Spectroscopy/lateximages/4spectra.png" style="display:inline-block;" width="450" height="400"> <img src="Gamma_Ray_Spectroscopy/lateximages/Cs137attenuation.png" style="display:inline-block;" width="450" height="400">
+<img src="Gamma_Ray_Spectroscopy/lateximages/4spectra.png" style="display:inline-block;" width="40%"> <img src="Gamma_Ray_Spectroscopy/lateximages/Cs137attenuation.png" style="display:inline-block;" width="450" height="400">
 
 
 * (LEFT) Energy Spectrum of <sup>60</sup>Co, <sup>137</sup>Cs, <sup>22</sup>Na, and <sup>54</sup>Mn. The energy axis was calibrated using known photopeak energy values. The photopeaks, backscatter peaks, and Compton edges can be seen in each spectrum.
